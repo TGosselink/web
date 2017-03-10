@@ -4,5 +4,5 @@
     $a = "Dit is een test van Theo Gosselink...<br>";
     echo $a;
     echo "De WEB-master branche<br>";
-    echo "Deel 3 vanuit MacOS<br>";
+    echo "Deel 4 vanuit Windows 10<br>";
 ?>
